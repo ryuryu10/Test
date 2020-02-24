@@ -48,6 +48,6 @@ async def dmall(ctx, global_guildid : int,*, message):
         await msg.edit(content=msg2)
     else:
         await ctx.channel.send('[Error] 등록된 사용자가 아닙니다.')
-
-client.run('NjgxMzA2NjI4NzY2OTU3NTc2.XlMikQ.r3Kih17QdR7eC5hAM_DRGOcdFRk')
+t = 'NjgxMzA2NjI4NzY2OTU3NTc2.XlNGUg.xayXw8PM1KKct7KC1WZMu7pBAc0'
+client.run(t)
 
